@@ -1,8 +1,8 @@
-[Building Serverless Solutions with Azure and .NET](../../README.md) \ 
+[Building Serverless Solutions with Azure and .NET](https://github.com/TaleLearnCode/BuildingServerlessSolutions) \ 
 
 # Workshop — dev up 2024
 
-![Building Serverless Solutions with Azure and .NET](../../thumbnail.jpg)
+![Building Serverless Solutions with Azure and .NET](thumbnail.jpg)
 
 ## Overview
 
