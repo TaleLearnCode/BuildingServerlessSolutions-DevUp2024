@@ -470,10 +470,10 @@ The next section will create a Service Bus topic subscription-triggered Azure Fu
        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
        "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
        "ServiceBusConnectionString": "<<ServiceBusConnectionString>>",
-       "GetNextCoreTopicName": "sbns-coolrevive-getnextcore275-dev-use2",
+       "GetNextCoreTopicName": "sbt-coolrevive-getnextcore275-dev-use2",
        "GetNextCoreForPod123SubscriptionName": "sbts-CoolRevive-GetNextCore275-dev-use2",
        "GetNextCoreUri123": "https://apim-coolrevive275-dev-use2.azure-api.net/production-schedule/next-core/{podId}/{date}",
-       "OrderNextCoreTopicName": "sbns-coolrevive-ordernextcore275-dev-use2",
+       "OrderNextCoreTopicName": "sbt-coolrevive-ordernextcore275-dev-use2",
        "ProductionScheduleAPIKeyKey": "Ocp-Apim-Subscription-Key",
        "ProductionScheduleAPIKeyValue": "<<SubscriptionKey>>"
      }
